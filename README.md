@@ -54,5 +54,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [www.linkedin.com/in/ahmedmaged-dev](www.linkedin.com/in/ahmedmaged-dev)  
+- LinkedIn: [www.linkedin.com/in/ahmedmaged-dev]([www.linkedin.com/in/ahmedmaged-dev](https://www.linkedin.com/in/ahmedmaged-dev/))  
 - Email: [ahmedmaged633@gmail.com](mailto:ahmedmaged633@gmail.com)  
