@@ -45,16 +45,14 @@
 🔹 [**Full-Stack App**](#) – Complete system: .NET backend + Angular frontend  
 🔹 [**Cybersecurity Labs**](#) – Networking & Fortinet practice labs  
 
-*(Replace `#` with actual repo links once you upload them)*  
-
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Maged-Mohamed&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Maged-Mohamed&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn](#)  
-- Email: [youremail@example.com](mailto:youremail@example.com)  
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/ahmedmaged-dev)  
+- Email: [youremail@example.com](mailto:ahmedmaged633@gmail.com)  
