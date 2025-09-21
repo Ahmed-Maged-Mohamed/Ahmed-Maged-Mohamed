@@ -54,5 +54,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/ahmedmaged-dev)  
-- Email: [youremail@example.com](mailto:ahmedmaged633@gmail.com)  
+- LinkedIn: [www.linkedin.com/in/ahmedmaged-dev](www.linkedin.com/in/ahmedmaged-dev)  
+- Email: [ahmedmaged633@gmail.com](mailto:ahmedmaged633@gmail.com)  
